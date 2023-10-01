@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/renatangr/renatangr/blob/main/flowerline.png" width="100%" /> </p>
+<p align="center"><img src="https://github.com/renatangr/renatangr/blob/main/flowerline.png" width="50%" /><img src="https://github.com/renatangr/renatangr/blob/main/flowerline.png" width="50%" /></p>
 <h1 align="center"> Hello there! Welcome to my profile </h1> 
 <p align="center" ><b> I'm Renata Negrini, but you can call me Reh </b> </p>
 <p align="center"> <img src="https://github.com/renatangr/renatangr/blob/main/octacatme.gif" width="25%" /> </p>

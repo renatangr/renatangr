@@ -1,8 +1,8 @@
 <p align="right"><img src="https://github.com/renatangr/renatangr/blob/main/flowerline.png" width="50%" /><img src="https://github.com/renatangr/renatangr/blob/main/flowerline.png" width="50%" /></p>
 <h1 align="center"> Hello there! Welcome to my profile </h1> 
-<p align="center" ><b> I'm Renata Negrini, but you can call me Reh </b> </p>
-<img align="left" alt="GIF" src="https://github.com/renatangr/renatangr/blob/main/octacatme.gif" width="200" height="200" />
 
+<img align="left" alt="GIF" src="https://github.com/renatangr/renatangr/blob/main/octacatme.gif" width="200" height="200" />
+<p align="center" ><b> I'm Renata Negrini, but you can call me Reh </b> </p>
 <p align="center" >I love programming, and I can say that it's my 💓 <b>passion</b> 💓 to see my code working and to be able to evolve in my computational logic. </p>
 
 <table>
